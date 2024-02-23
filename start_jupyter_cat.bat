@@ -1,0 +1,1 @@
+docker run -p 8888:8888 -v /c/Users/oxborjt/:/home/jovyan/adsup jupyter/pyspark-notebook 
